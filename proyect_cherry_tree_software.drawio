@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T01:06:23.342Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="AWUYfzNKQMGh9c4aAUtc" version="21.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-13T01:18:45.064Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="QiAMV6f3Rx8tUEHI8Cr3" version="21.0.6" type="github" pages="2">
   <diagram name="REGISTRO-INICIAR SECION" id="O11Y_Xe0iyi4Op4CgO3t">
-    <mxGraphModel dx="2497" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2061" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -207,7 +207,7 @@
         <mxCell id="nCbh148VY4gw8LmBXYpR-17" value="calculadora financiera" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=30;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="150" y="480" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nCbh148VY4gw8LmBXYpR-19" value="registros" style="whiteSpace=wrap;html=1;align=center;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=30;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="nCbh148VY4gw8LmBXYpR-19" value="registros" style="whiteSpace=wrap;html=1;align=center;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;startSize=30;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="380" y="545" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nCbh148VY4gw8LmBXYpR-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=30;endArrow=none;endFill=0;" parent="1" source="nCbh148VY4gw8LmBXYpR-20" target="nCbh148VY4gw8LmBXYpR-19" edge="1">
@@ -249,7 +249,7 @@
         <mxCell id="nCbh148VY4gw8LmBXYpR-33" value="tiene" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=30;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="140" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nCbh148VY4gw8LmBXYpR-36" value="transacciones financieras" style="whiteSpace=wrap;html=1;align=center;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=30;fillColor=default;" parent="1" vertex="1">
+        <mxCell id="nCbh148VY4gw8LmBXYpR-36" value="transacciones financieras" style="whiteSpace=wrap;html=1;align=center;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;startSize=30;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="840" y="650" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nCbh148VY4gw8LmBXYpR-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=30;endArrow=none;endFill=0;" parent="1" source="nCbh148VY4gw8LmBXYpR-37" target="5JQ4-HuBJbf6vMoPK44V-27" edge="1">
